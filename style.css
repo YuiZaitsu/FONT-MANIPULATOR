@@ -1,0 +1,34 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px grey;
+    
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.footer{
+    position: fixed;
+    bottom:0;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+    line-height: 2;
+    background-color: black;
+    color: whitesmoke;
+}
+
+canvas{
+    border: 5px dotted black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+body{
+
+    background-image: url('./4e6fd258-c3f5-45ea-a264-3ad32d71fab4.jpg');
+}
